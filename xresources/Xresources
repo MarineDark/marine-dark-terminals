@@ -1,12 +1,12 @@
-!! default:
-*.background:   #002221
+!! marine-dark:
+*.background:   #001a19
 *.foreground:   #e6f8f8
-*.color0:       #002221
+*.color0:       #001a19
 *.color1:       #ea3431
 *.color2:       #00B6B6
 *.color3:       #F8B017
 *.color4:       #4894fd
-*.color5:       #e01dca
+*.color5:       #fb00ef
 *.color6:       #1ab2ad
 *.color7:       #99dddb
 *.color8:       #006562
@@ -14,6 +14,6 @@
 *.color10:      #00B6B6
 *.color11:      #F8B017
 *.color12:      #4894fd
-*.color13:      #e01dca
+*.color13:      #fb00ef
 *.color14:      #1ab2ad
-*.color15:      #e6f6f6
+*.color15:      #bae3e3
