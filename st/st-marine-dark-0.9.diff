@@ -43,12 +43,12 @@ index 91ab8ca..dbc8e6e 100644
 -	"gray90", /* default foreground colour */
 -	"black", /* default background colour */
 +    /* 8 normal colors */
-+    [0] = "#002221", /* black   */
++    [0] = "#001a19", /* black   */
 +    [1] = "#ea3431", /* red     */
 +    [2] = "#00b6b6", /* green   */
 +    [3] = "#f8b017", /* yellow  */
 +    [4] = "#4894fd", /* blue    */
-+    [5] = "#e01dca", /* magenta */
++    [5] = "#fb00ef", /* magenta */
 +    [6] = "#1ab2ad", /* cyan    */
 +    [7] = "#99dddb", /* white   */
 +
@@ -58,12 +58,12 @@ index 91ab8ca..dbc8e6e 100644
 +    [10] = "#00b6b6", /* green   */
 +    [11] = "#f8b017", /* yellow  */
 +    [12] = "#4894fd", /* blue    */
-+    [13] = "#e01dca", /* magenta */
++    [13] = "#fb00ef", /* magenta */
 +    [14] = "#1ab2ad", /* cyan    */
-+    [15] = "#e6f6f6", /* white   */
++    [15] = "#bae3e3", /* white   */
 +
 +    /* special colors */
-+    [256] = "#002221", /* background */
++    [256] = "#001a19", /* background */
 +    [257] = "#e6f8f8", /* foreground */
  };
 
